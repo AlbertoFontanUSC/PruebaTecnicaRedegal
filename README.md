@@ -14,7 +14,7 @@ de Borough y Zone) con el mayor número de viajes que, individualmente, superan 
  - Se adjunta también un script para la ejecución de Contenedor docker con todo lo necesario para la ejecución.
  - Los datos se descargan directamente desde el sitio web.
 
-### Metodlogía a seguir
+### Metodología a seguir
 
 En primer lugar hago una visualización general de los datos y como están distribuídos lo cual presento en el informe, y posteriormente ya paso
 a la resolución del problema que se pide.
